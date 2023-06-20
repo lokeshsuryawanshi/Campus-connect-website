@@ -25,7 +25,7 @@ It aims to simplify the academic journey of students and help them prepare effec
 3. Access the question papers related to the selected course.
 4. Read the course descriptions for a better understanding of the subjects.
 5. Connect with the team through the contact form if needed.
-
+### You will need to create your own database in firebase preferably and link it to the login page, also you will have to change the links for downloading files from database
 ## Team
 The Campus Connect project is brought to you by:
 
